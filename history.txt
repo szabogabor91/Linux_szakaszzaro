@@ -1,0 +1,1000 @@
+  988  git Java update
+  989  git pull --recurse-submodules
+  990  ls -la
+  991  cd Java
+  992  ls -la
+  993  cd .
+  994  ls -la
+  995  cd \.
+  996  cd ..
+  997  git clone --recurse-submodules -j8 git@github.com:git-game/git-game-v2.git
+  998  ls -la
+  999  cat README.md 
+ 1000  git submodule init 
+ 1001  git clone --recurse-submodules -j8 git@github.com:git-game/git-game-v2.git
+ 1002  git submodule update
+ 1003  ls -la
+ 1004  cd Java
+ 1005  cat README.md 
+ 1006  git checkout history
+ 1007  ls -la
+ 1008  cat README.md 
+ 1009  git status
+ 1010  git checkout history
+ 1011  cd ..
+ 1012  git checkout history
+ 1013  cat README.md 
+ 1014  git grep hint.edu
+ 1015  git -rev-list --branches history
+ 1016  git rev-list --branches history
+ 1017  git grep 'hint.edu' $(git rev-list --branches history)
+ 1018  git grep 'hint.edu' $(git rev-list --branches history) -- ':!README.md'
+ 1019  git show 626dfd0330baff0b900bd007841a9039b24d0fb4
+ 1020  git checkout cherry
+ 1021  cat README.md 
+ 1022  git cherry-pick origin/arachnid~4
+ 1023  git log
+ 1024  git show 87696eaa
+ 1025  git show 8769
+ 1026  git show 87696249cdf14914179866d8e0382540b8e6f7a5
+ 1027  git checkout lighthouse 
+ 1028  git checkout root
+ 1029  cat README.md 
+ 1030  cd github/
+ 1031  ls -l
+ 1032  cd FlowrMula1/
+ 1033  cd Lambda_FlowrMula1/
+ 1034  ls- la
+ 1035  ls -la
+ 1036  code .
+ 1037  git pull
+ 1038  git checkout main 
+ 1039  git pull
+ 1040  git merge index.js 
+ 1041  git push
+ 1042  git branch -d index.js 
+ 1043  git push origin --delete index.js
+ 1044  git branch
+ 1045  git checkout development
+ 1046  git checkout -b development
+ 1047  git push
+ 1048  git push --set-upstream origin development
+ 1049  node index.js 
+ 1050  git add index.js 
+ 1051  git status
+ 1052  git commit index.js 
+ 1053  git push 
+ 1054  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1055  node .
+ 1056  git pull
+ 1057  code .
+ 1058  node .
+ 1059  git pull
+ 1060  node .
+ 1061  git status
+ 1062  git add index.js
+ 1063  git commit -m "Added playerStartingPosition function" 
+ 1064  git push
+ 1065  git add index.js 
+ 1066  git commit -m "Added addEnemy function"
+ 1067  git push
+ 1068  git add index.js 
+ 1069  git commit -m "Removed player coordiantes array"
+ 1070  git push
+ 1071  npm i readline-sync
+ 1072  node proba.js 
+ 1073  A
+ 1074  node proba.js 
+ 1075  npm i terminal-kit
+ 1076  node proba.js 
+ 1077  npm i axel
+ 1078  node proba.js 
+ 1079  node proba.js clear
+ 1080  clear
+ 1081  node proba.js clear
+ 1082  node proba.js
+ 1083  clear
+ 1084  clear
+ 1085  node proba.js
+ 1086  clear
+ 1087  node proba.js
+ 1088  clear
+ 1089  node proba.js
+ 1090  clear
+ 1091  node proba.js
+ 1092  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1093  code .
+ 1094  node .
+ 1095  code .
+ 1096  node .
+ 1097  cd ../..
+ 1098  mkdir Proba
+ 1099  cd Proba/
+ 1100  code .
+ 1101  cd ..
+ 1102  cd FlowrMula1/Lambda_FlowrMula1/
+ 1103  code .
+ 1104  node .
+ 1105  git pull
+ 1106  git fetch
+ 1107  git pull
+ 1108  git status
+ 1109  git restore index.js
+ 1110  git pull
+ 1111  code .
+ 1112  cd ../..
+ 1113  cd Proba/
+ 1114  code .
+ 1115  cd Floworak/Sitebuilding/
+ 1116  code .
+ 1117  cd ..
+ 1118  mkdir Sitebuilding 2
+ 1119  cd Sitebuilding2
+ 1120  cd Sitebuilding 2
+ 1121  cd Sitebuilding2
+ 1122  code .
+ 1123  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1124  code .
+ 1125  node .
+ 1126  clear
+ 1127  node .
+ 1128  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1129  git pull
+ 1130  node .
+ 1131  nc 127.0.0.1 5000
+ 1132  apt-get install netcat
+ 1133  sudo apt-get install netcat
+ 1134  netcat
+ 1135  nc example.com 80
+ 1136  nc example.com 80
+ 1137  nc -l 8080
+ 1138  netcat -l 5000
+ 1139  ifconfig 
+ 1140  nc 192.168.5.145 5000
+ 1141  nc 192.168.5.100  5000
+ 1142  Szia Uram!
+ 1143  nc 192.168.5.100  5000
+ 1144  Szia Uram!
+ 1145  Szia Uram!
+ 1146  nc 192.168.5.100 5000
+ 1147  Szia Uram!
+ 1148  nc 192.168.5.100 5000
+ 1149  Sziaaasdsadsa
+ 1150  nc 192.168.5.97 5000
+ 1151  Szia Uram!
+ 1152  nc 192.168.5.97 5000
+ 1153  sddaf
+ 1154  Szia Uram!
+ 1155  nc 192.168.5.97 5000
+ 1156  sudo nc 192.168.5.100 5000
+ 1157  nc -l 5000
+ 1158  sudo nc 192.168.5.100 5000
+ 1159  nc -l 5000 > 123.jpg
+ 1160  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1161  code .
+ 1162  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1163  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1164  node .
+ 1165  cd ../..
+ 1166  ls -l
+ 1167  cd Proba/
+ 1168  code .
+ 1169  cd ..
+ 1170  cd FlowrMula1/Lambda_FlowrMula1/
+ 1171  node .
+ 1172  node .
+ 1173  node proba.js 
+ 1174  cd ..
+ 1175  cd FlowrMula1/Lambda_FlowrMula1/
+ 1176  cd ../..
+ 1177  ls -l
+ 1178  cd Proba/
+ 1179  node .
+ 1180  node proba.js 
+ 1181  npm init
+ 1182  node index.js 
+ 1183  git fetch
+ 1184  git status
+ 1185  git add index.js
+ 1186  git commit -m "Added movePlayerVertically"
+ 1187  git push
+ 1188  node menu.js 
+ 1189  npm install
+ 1190  node menu.js 
+ 1191  npm install terminal-kit
+ 1192  npm i axel
+ 1193  node menu.js 
+ 1194  node index.js 
+ 1195  cd github/Proba/
+ 1196  code .
+ 1197  cd ..
+ 1198  cd FlowrMula1/Lambda_FlowrMula1/
+ 1199  node .
+ 1200  cd Floworak/
+ 1201  ls -l
+ 1202  mkdir Gyakorlas
+ 1203  cd Gyakorlas/
+ 1204  code .
+ 1205  node gyakorlas.js 
+ 1206  code .
+ 1207  node gyakorlas.js 
+ 1208  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1209  code .
+ 1210  git pull
+ 1211  code .
+ 1212  node .
+ 1213  git status
+ 1214  git pull
+ 1215  git checkout -b menu
+ 1216  git status
+ 1217  git brances -r
+ 1218  git brances -b
+ 1219  git branches -r
+ 1220  git branches -b
+ 1221  git branch -r
+ 1222  git status
+ 1223  node .
+ 1224  node menu.js 
+ 1225  node .
+ 1226  node menu.js 
+ 1227  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1228  node menu.js 
+ 1229  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1230  node menu.js 
+ 1231  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1232  node menu.js 
+ 1233  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1234  node menu.js 
+ 1235  node proba2.js
+ 1236  node menu.js 
+ 1237  git add colorPicking.js 
+ 1238  git commit -m "Added colorPicking"
+ 1239  git add menu.js
+ 1240  git status
+ 1241  git commit -m "Added menu"
+ 1242  git add colorPicking.js 
+ 1243  git commit -m "Added colorPicking"
+ 1244  node addName.js 
+ 1245  git commit -m "Added colorPicking"
+ 1246  git add menu.js 
+ 1247  git commit -m "Added proper linebreak for text"
+ 1248  npm i game-gui
+ 1249  node proba.js 
+ 1250  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1251  node menu.js 
+ 1252  git status
+ 1253  git add menu.js 
+ 1254  git commit -m "Added menu"
+ 1255  git checkout development 
+ 1256  node .
+ 1257  git status
+ 1258  node index.js 
+ 1259  node .
+ 1260  ls
+ 1261  git checkout menu
+ 1262  rm proba1.js proba2.js user.js
+ 1263  git status
+ 1264  git add .
+ 1265  git commit -m "Added menu"
+ 1266  git checkout development 
+ 1267  node index.js 
+ 1268  git checkout menu
+ 1269  node menu.js 
+ 1270  git status
+ 1271  ls -la
+ 1272  node colorPicking.js 
+ 1273  node menu.js 
+ 1274  node colorPicking.js 
+ 1275  node menu.js 
+ 1276  node colorPicking.js 
+ 1277  node menu.js 
+ 1278  node colorPicking.js 
+ 1279  node menu.js 
+ 1280  node colorPicking.js 
+ 1281  node menu.js 
+ 1282  node colorPicking.js 
+ 1283  node menu.js 
+ 1284  node colorPicking.js 
+ 1285  node menu.js 
+ 1286  git add colorPicking.js 
+ 1287  git status
+ 1288  git reset
+ 1289  git status
+ 1290  node addName.js 
+ 1291  node menu.js 
+ 1292  node addName.js 
+ 1293  node menu.js 
+ 1294  node addName.js 
+ 1295  node menu.js 
+ 1296  git add addName.js
+ 1297  git commit -m "Added addName"
+ 1298  clear
+ 1299  node menu.js 
+ 1300  git status
+ 1301  git add addName.js 
+ 1302  git status
+ 1303  git log
+ 1304  node menu.js 
+ 1305  cd ..
+ 1306  ls -l
+ 1307  cd ..
+ 1308  ls -l
+ 1309  cd Proba/
+ 1310  code .
+ 1311  cd ..
+ 1312  cd FlowrMula1/Lambda_FlowrMula1/
+ 1313  code .
+ 1314  node menu.js 
+ 1315  ls -l
+ 1316  node proba.js
+ 1317  cfonts 3d -f 3d -c "#f00" ,gray
+ 1318  $ cfonts "text" --font "chrome"
+ 1319  node proba.js 
+ 1320  node intro.js 
+ 1321  node menu.js 
+ 1322  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1323  node menu.js 
+ 1324  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1325  node menu.js
+ 1326  git status
+ 1327  node proba.js 
+ 1328  git status
+ 1329  npm install cfonts -g
+ 1330  npm install cfonts -g
+ 1331  npm install cfonts
+ 1332  node proba.js 
+ 1333  node intro.js 
+ 1334  git status
+ 1335  node intro.js 
+ 1336  git status
+ 1337  node intro.js 
+ 1338  git add menu.js 
+ 1339  git status
+ 1340  git add menu.js 
+ 1341  git commit -m "Improved menu"
+ 1342  git add colorPicking.js 
+ 1343  git commit -m "Improved colorPicking"
+ 1344  git add addName.js 
+ 1345  git commit -m "Improved addName"
+ 1346  git add intro.js 
+ 1347  git commit -m "Added intro"
+ 1348  git push
+ 1349  git status
+ 1350  git add index.js 
+ 1351  git commit -m "Added player export"
+ 1352  git add .
+ 1353  git commit -m "Added packages"
+ 1354  git push --set-upstream origin menu
+ 1355  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1356  code .
+ 1357  node intro.js 
+ 1358  node menu.js 
+ 1359  node proba.js 
+ 1360  node menu.js 
+ 1361  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1362  node menu.js 
+ 1363  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1364  node menu.js 
+ 1365  node intro.js 
+ 1366  node proba.js 
+ 1367  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1368  node menu.js 
+ 1369  node proba.js 
+ 1370  clear
+ 1371  node proba.js 
+ 1372  node intro.js 
+ 1373  node proba.js 
+ 1374  clear
+ 1375  node proba.js 
+ 1376  clear
+ 1377  node proba.js 
+ 1378  node menu.js 
+ 1379  node intro.js 
+ 1380  node menu.js 
+ 1381  node intro.js 
+ 1382  node menu.js 
+ 1383  clear
+ 1384  node intro.js 
+ 1385  node menu.js 
+ 1386  node intro.js 
+ 1387  node menu.js 
+ 1388  git status
+ 1389  git push
+ 1390  git status
+ 1391  node menu.js 
+ 1392  node intro.js 
+ 1393  node menu.js 
+ 1394  node intro.js 
+ 1395  node proba.js 
+ 1396  node menu.js 
+ 1397  node intro.js 
+ 1398  node menu.js 
+ 1399  node intro.js 
+ 1400  nod menu.js 
+ 1401  node menu.js 
+ 1402  node intro.js 
+ 1403  node menu.js 
+ 1404  node intro.js 
+ 1405  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1406  node intro.js 
+ 1407  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1408  node intro.js 
+ 1409  ;1R
+ 1410  node intro.js 
+ 1411  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1412  node intro.js 
+ 1413  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1414  node intro.js 
+ 1415  clear
+ 1416  node intro.js 
+ 1417  clear
+ 1418  node intro.js 
+ 1419  clear
+ 1420  node intro.js 
+ 1421  clear
+ 1422  node intro.js 
+ 1423  clear
+ 1424  node intro.js 
+ 1425  clear
+ 1426  node intro.js 
+ 1427  clear
+ 1428  node intro.js 
+ 1429  clear
+ 1430  node intro.js 
+ 1431  clear
+ 1432  node intro.js 
+ 1433  clear
+ 1434  node intro.js 
+ 1435  clear
+ 1436  node intro.js 
+ 1437  clear
+ 1438  node intro.js 
+ 1439  node intro.js 
+ 1440  node proba.js 
+ 1441  node intro.js 
+ 1442  node proba.js 
+ 1443  node intro.js 
+ 1444  node proba.js 
+ 1445  node intro.js 
+ 1446  node menu.js 
+ 1447  node intro.js 
+ 1448  node menu.js 
+ 1449  node menu.js 
+ 1450  node menu.js 
+ 1451  node menu.js 
+ 1452  node intro.js 
+ 1453  node proba.js 
+ 1454  node menu.js 
+ 1455  git stash
+ 1456  git status
+ 1457  git add menu.js 
+ 1458  git commit -m menu.js "Improved design"
+ 1459  git commit -m "Improved design"
+ 1460  git add colorPicking.js
+ 1461  git commit -m "Improved design"
+ 1462  git add addName.js 
+ 1463  git commmit -m "Improved design"
+ 1464  git commit -m "Improved design"
+ 1465  node proba.js 
+ 1466  git status
+ 1467  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1468  code .
+ 1469  node intro.js 
+ 1470  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1471  node intro
+ 1472  node intro.js 
+ 1473  clear
+ 1474  node intro.js 
+ 1475  ;1R   
+ 1476  asdadsa
+ 1477  node intro.js 
+ 1478  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1479  node intro
+ 1480  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1481  node menu.js 
+ 1482  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1483  node intro.js 
+ 1484  node leaderboard.js 
+ 1485  node intro.js 
+ 1486  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1487  node intro.js 
+ 1488  cd github/FlowrMula1/Lambda_FlowrMulno
+ 1489  node intro.js 
+ 1490  clear
+ 1491  node intro.js 
+ 1492  clear
+ 1493  node intro.js 
+ 1494  clear
+ 1495  node intro.js 
+ 1496  clear
+ 1497  node intro.js 
+ 1498  clear
+ 1499  node intro.js 
+ 1500  node intro.js intadasdqqweq
+ 1501  git stash pop
+ 1502  git status
+ 1503  git add addName.js 
+ 1504  git commit -m "Fixed crashing"
+ 1505  git add colorPicking.js 
+ 1506  git commit -m "Fixed crashing"
+ 1507  git add intro.js 
+ 1508  git commit -m "Fixed crashing"
+ 1509  git add menu.js 
+ 1510  git commit -m "Fixed crashing"
+ 1511  git status
+ 1512  git push
+ 1513  git checkout development 
+ 1514  git log
+ 1515  git reset HEAD index.js
+ 1516  git status
+ 1517  git diff index.js
+ 1518  git reset HEAD index.js
+ 1519  git status
+ 1520  git checkout development 
+ 1521  git fetch
+ 1522  git pull
+ 1523  git merge menu
+ 1524  git status
+ 1525  git add gameOver.js 
+ 1526  git commit -m "Added gameOver function"
+ 1527  git status
+ 1528  rm proba.js 
+ 1529  git status
+ 1530  git add .
+ 1531  git status
+ 1532  git commit -m "Merged menu files"
+ 1533  git status
+ 1534  git push
+ 1535  git status
+ 1536  git fetch
+ 1537  git pull
+ 1538  npm install
+ 1539  git fetch
+ 1540  git pull
+ 1541  git status
+ 1542  git add .
+ 1543  git commit -m "Added high score menu option"
+ 1544  git push
+ 1545  git status
+ 1546  git add .
+ 1547  git commit -m "Added color picking"
+ 1548  git push
+ 1549  git diff
+ 1550  git status
+ 1551  git add .
+ 1552  git commit -m "Improved scorecounting"
+ 1553  git push
+ 1554  git status
+ 1555  git stash
+ 1556  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1557  node intro.js 
+ 1558  clear
+ 1559  node intro.js 
+ 1560  node index.js
+ 1561  node intro.js 
+ 1562  ;1Rqqqqqq
+ 1563  clear
+ 1564  node intro.js 
+ 1565  ;1Rclear
+ 1566  clear
+ 1567  node intro.js 
+ 1568  clear
+ 1569  node intro.js 
+ 1570  clear
+ 1571  node intro.js 
+ 1572  asdads
+ 1573  clear
+ 1574  node intro.js 
+ 1575  clear
+ 1576  node intro.js 
+ 1577  clear
+ 1578  node intro.js 
+ 1579  clear
+ 1580  node intro.js 
+ 1581  stash
+ 1582  git stash
+ 1583  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1584  node intro
+ 1585  clear
+ 1586  node intro
+ 1587  cd github/FlowrMula1/Lamd
+ 1588  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1589  node intro.js 
+ 1590  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1591  node intro.js 
+ 1592  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1593  node intro.js 
+ 1594  clear
+ 1595  node intro.js 
+ 1596  clear
+ 1597  node intro.js 
+ 1598  clear
+ 1599  node intro.js 
+ 1600  clear
+ 1601  node intro.js 
+ 1602  clear
+ 1603  node intro.js 
+ 1604  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1605  node intro.js 
+ 1606  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1607  node intro.js 
+ 1608  node intro.js 
+ 1609  git fetch
+ 1610  git status
+ 1611  git add .
+ 1612  git status
+ 1613  git commit -m "Fixed menu"
+ 1614  git stash
+ 1615  git pull
+ 1616  git status
+ 1617  git add index.js 
+ 1618  git commit -m "Resolved conflict for fixed menu"
+ 1619  git status
+ 1620  git add .
+ 1621  git status
+ 1622  git commit -m "Added game over message"
+ 1623  git push
+ 1624  git status
+ 1625  git add intro.js 
+ 1626  git commit -m "Switched continue keys"
+ 1627  git add index.js 
+ 1628  git commit -m "Updated game over message"
+ 1629  git status
+ 1630  git push
+ 1631  git reset HEAD leaderboard.js
+ 1632  git status
+ 1633  git reset HEAD leaderboard.js
+ 1634  git status
+ 1635  git reset HEAD leaderboard.js
+ 1636  git status
+ 1637  git restore leaderboard.js
+ 1638  git status
+ 1639  git restore scores.txt
+ 1640  git restore writehighscores.js
+ 1641  git status
+ 1642  git push
+ 1643  git stash
+ 1644  git pull
+ 1645  git status
+ 1646  git log
+ 1647  git push
+ 1648  git pull
+ 1649  npm i
+ 1650  node intro.js 
+ 1651  sudo apt install mpg123
+ 1652  node intro.js 
+ 1653  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1654  node intro.js 
+ 1655  code .
+ 1656  node intro.js 
+ 1657  git status
+ 1658  git diff
+ 1659  git add .
+ 1660  git commit -m "Changed map"
+ 1661  git push
+ 1662  git pull
+ 1663  npm i
+ 1664  git status
+ 1665  git add .
+ 1666  git commit -m "Updated audio"
+ 1667  git push
+ 1668  git status
+ 1669  git add .
+ 1670  git commit -m "Fixed playScoreSound audio level"
+ 1671  git status
+ 1672  git add index.js 
+ 1673  git commit -m "Changed enemy starting speed"
+ 1674  git push
+ 1675  git status
+ 1676  git add .
+ 1677  git commit -m "Deleted unnecessary comments"
+ 1678  git push
+ 1679  node intro.js 
+ 1680  git status
+ 1681  git reset --hard
+ 1682  git status
+ 1683  git merge audio
+ 1684  git merge origin/audio
+ 1685  node intro.js 
+ 1686  sudo apt install mpg321
+ 1687  node intro.js 
+ 1688  cd github/FlowrMula1/Lambda_FlowrMula1/
+ 1689  clear
+ 1690  node intro.js 
+ 1691  node intro.js
+ 1692  sudo apt-get update
+ 1693  sudo apt-get upgrade
+ 1694  rmdir -p kiskutya/kiscica/kismalac
+ 1695  mkdir -p kiskutya/kiscica/kismalac
+ 1696  rmdir -p kiskutya/kiscica/kismalac
+ 1697  ls -l
+ 1698  mkdir kiskutya
+ 1699  mv kiskutya kiscica
+ 1700  ls -l
+ 1701  mc kiscica Lamba
+ 1702  mv kiscica Lamba
+ 1703  ls -l
+ 1704  cd Lamb
+ 1705  cd Lambda
+ 1706  ls -l
+ 1707  rmdir Lamba
+ 1708  ls -l
+ 1709  cd ..
+ 1710  rmdir Lamba
+ 1711  mkdir kiskutya
+ 1712  mv kiskutya kiscica
+ 1713  ls -l
+ 1714  mvdir kiscica Lambda
+ 1715  mv kiscica Lambda
+ 1716  ls -l
+ 1717  cd Lambda/
+ 1718  ls -l
+ 1719  rmdir kiscica/
+ 1720  cd ..
+ 1721  mkdir kiscica
+ 1722  cd kiscica/
+ 1723  touch valami.txt
+ 1724  ls -l
+ 1725  mkdir kiskutya
+ 1726  cd kiskutya/
+ 1727  touch valami2.txt
+ 1728  ls -l
+ 1729  cd ..
+ 1730  cp -R kiscica Lambda
+ 1731  ls -l
+ 1732  cd Lambda/
+ 1733  ls -l
+ 1734  cd kiscica/
+ 1735  ls -l
+ 1736  cd ..
+ 1737  ls -l
+ 1738  rm kiscica
+ 1739  rmdir kiscica
+ 1740  rmdir -r kiscica
+ 1741  rmdir -R kiscica
+ 1742  rm kiscica
+ 1743  rmdir -p kiscica/
+ 1744  rm -r kiscica/
+ 1745  ls -l
+ 1746  cd ..
+ 1747  ls -l
+ 1748  rm -r kiscica/
+ 1749  ls -l
+ 1750  locate gyakorlas
+ 1751  systemctl 
+ 1752  systemctl -t service 
+ 1753  env
+ 1754  node switch.js 
+ 1755  node while.js 
+ 1756  node do-while.js 
+ 1757  node 4.feladat.js 
+ 1758  node 4.feladat.js 
+ 1759  node 13.feladat.js 
+ 1760  node 4.feladat.js 
+ 1761  node 1.feladat.js 
+ 1762  node 2.feladat.js 
+ 1763  node 3.feladat.js 
+ 1764  node array.js 
+ 1765  node objects.js 
+ 1766  node 5.feladat.js 
+ 1767  node 6.feladat.js
+ 1768  node 7.feladat.js 
+ 1769  node 8.feladat.js 
+ 1770  node 9.feladat.js 
+ 1771  node array1.js 
+ 1772  node strings.js
+ 1773  node proba.js 
+ 1774  node extra1.feladat.js 
+ 1775  node extra2.feladat.js 
+ 1776  nodep r
+ 1777  node proba.js 
+ 1778  node sort.js 
+ 1779  node 2dArray.js 
+ 1780  node proba.js 
+ 1781  node 1.feladat.js 
+ 1782  node 2.feladat.js 
+ 1783  node 1.feladat.js 
+ 1784  node 2.feladat.js 
+ 1785  node callback.js 
+ 1786  node proba2.js 
+ 1787  node recursion.js 
+ 1788  node akasztofa_jo.js 
+ 1789  ls -l
+ 1790  touch gyakorlas.txt
+ 1791  cat gyakorlas | colrm 9 24
+ 1792  ls -l
+ 1793  cat gyakorlas.txt | colrm 9 24
+ 1794  cat gyakorlas.txt | colrm 10 24
+ 1795  cat gyakorlas.txt | colrm 10 12
+ 1796  cat gyakorlas.txt | cut -c5-22
+ 1797  cat gyakorlas.txt | cut -c5-10
+ 1798  cat gyakorlas.txt | cut -c5-15
+ 1799  cat gyakorlas.txt | cut -f2
+ 1800  cut -f2 < gyakorlas.txt
+ 1801  cut -f2 -d: gyakorlas.txt
+ 1802  cut -f2 -d : gyakorlas.txt
+ 1803  cut -f2 -d: gyakorlas.txt
+ 1804  cut -f2,3 -d: gyakorlas.txt
+ 1805  cut -f2 < gyakorlas.txt
+ 1806  cat gyakorlas.txt | cut -f2 
+ 1807  cat gyakorlas.txt | cut -f2 -d 
+ 1808  cut -f2 -d < gyakorlas.txt
+ 1809  cat gyakorlas.txt | colrm 9 24
+ 1810  cat gyakorlas.txt | colrm 9 22
+ 1811  cat gyakorlas.txt | colrm 9 20
+ 1812  cat gyakorlas.txt | colrm 9
+ 1813  cat gyakorlas.txt | colrm 4
+ 1814  cat gyakorlas.txt | colrm 5
+ 1815  cat gyakorlas.txt | colrm 6
+ 1816  cat gyakorlas.txt | colrm 7
+ 1817  cat gyakorlas.txt | colrm 7 15
+ 1818  cat gyakorlas.txt | colrm 15
+ 1819  cat gyakorlas.txt | colrm 7 15
+ 1820  cat gyakorlas.txt | cut -f 7
+ 1821  cat gyakorlas.txt | cut -f 5
+ 1822  cat gyakorlas.txt | cut -f 2
+ 1823  cat gyakorlas.txt | cut -f
+ 1824  cat gyakorlas.txt | cut -f2
+ 1825  cat gyakorlas.txt | cut -f2 -d 
+ 1826  cat gyakorlas.txt | cut 2
+ 1827  help cut
+ 1828  info cut
+ 1829  cat gyakorlas.txt | cut -f2
+ 1830  cat gyakorlas.txt | cut -f3
+ 1831  cat gyakorlas.txt | cut -f1
+ 1832  psa
+ 1833  ps
+ 1834  psx
+ 1835  aux
+ 1836  ps ax
+ 1837  ps axu
+ 1838  ps ax -f
+ 1839  ps -f
+ 1840  who
+ 1841  w
+ 1842  nano
+ 1843  ps 
+ 1844  nano
+ 1845  ps 
+ 1846  nano &
+ 1847  ps 
+ 1848  fg 1
+ 1849  ps
+ 1850  pstree
+ 1851  fuser
+ 1852  fuser -v
+ 1853  cd Floworak/
+ 1854  ls -l
+ 1855  cd Progalap2
+ 1856  code .
+ 1857  cd ..
+ 1858  cd Progalap3
+ 1859  code .
+ 1860  cd ..
+ 1861  cd Floworak/Progalap4
+ 1862  cd Floworak
+ 1863  ls -l
+ 1864  cd Progalap4-5
+ 1865  code .
+ 1866  cd ..
+ 1867  node Progalap6
+ 1868  cd Progalap6
+ 1869  code .
+ 1870  cd cc
+ 1871  cd ..
+ 1872  cd Progalap7
+ 1873  code .
+ 1874  cd ..
+ 1875  ls -l
+ 1876  cd ..
+ 1877  cd Floworak/Progalap8
+ 1878  code .
+ 1879  node 2dArray.js 
+ 1880  node readline.js 
+ 1881  cd Floworak/Progalap7
+ 1882  code .
+ 1883  cd ..
+ 1884  who
+ 1885  ps
+ 1886  ps aux
+ 1887  cd Progalap6
+ 1888  code .
+ 1889  cd ..
+ 1890  cd Progalap 4-5
+ 1891  cd Progalap4-5
+ 1892  code .
+ 1893  cd ..
+ 1894  cd Progalap7
+ 1895  code .
+ 1896  node proba.js
+ 1897  cd Floworak/Progalap6
+ 1898  code .
+ 1899  cd ../Progalap4-5
+ 1900  code .
+ 1901  cd ../Progalap7
+ 1902  code .
+ 1903  cd ..
+ 1904  cd Progalap8
+ 1905  code .
+ 1906  cd Floworak/Progalap8
+ 1907  code .
+ 1908  cd ..
+ 1909  Progalap7
+ 1910  cd Progalap7
+ 1911  code .
+ 1912  cd ..
+ 1913  cd Progalap6
+ 1914  code .
+ 1915  cd ..
+ 1916  cd Progalap4-5
+ 1917  code .
+ 1918  cd Floworak/Progalap4-5
+ 1919  code .
+ 1920  cd ..
+ 1921  cd Progalap8
+ 1922  code .
+ 1923  cd ..
+ 1924  cd Progalap7
+ 1925  code .
+ 1926  cd Floworak/Progalap7
+ 1927  code .
+ 1928  ls -l
+ 1929  touch szakaszzaro_feladat.txt
+ 1930  ls -l
+ 1931  echo Hello > szakaszzaro_feladat.txt
+ 1932  cat szakaszzaro_feladat.txt 
+ 1933  mv szakaszzaro_feladat.txt feladat
+ 1934  ls -l
+ 1935  cp feladat feladat2
+ 1936  ls -l
+ 1937  rm feladat2
+ 1938  ls -l
+ 1939  cat feladat 
+ 1940  cat /var/log/syslog
+ 1941  cat /var/log/syslog | less
+ 1942  grep NetworkManager /var/log/syslog
+ 1943  cat feladat 
+ 1944  grep NetworkManager /var/log/syslog >> /home/kodo/feladat 
+ 1945  cat feladat 
+ 1946  ls -l
+ 1947  cd github/
+ 1948  mkdir Linux_szakaszzaro
+ 1949  cd Linux_szakaszzaro/
+ 1950  git init -b main
+ 1951  git init main
+ 1952  cd main/
+ 1953  ls -l
+ 1954  ls -la
+ 1955  cp ~/.bash_history /home/kodo/github/Linux_szakaszzaro/main
+ 1956  ls -l
+ 1957  ls -la
+ 1958  git add .bash_history 
+ 1959  git status
+ 1960  git commit -m "Uploaded bash history"
+ 1961  git status
+ 1962  git push
+ 1963  git remote add git@github.com:szabogabor91/Linux_szakaszzaro.git
+ 1964  git remote add kodo git@github.com:szabogabor91/Linux_szakaszzaro.git
+ 1965  git status
+ 1966  git push
+ 1967  git push kodo
+ 1968  git push --set-upstream kodo master
+ 1969  git status
+ 1970  git push
+ 1971  ls -l
+ 1972  cd github/Linux_szakaszzaro/main/
+ 1973  ls -l
+ 1974  ls -la
+ 1975  git add .bash_history 
+ 1976  git status
+ 1977  git add .bash_history
+ 1978  git commit -m "Updated .bash_history"
+ 1979  cat .bash_history 
+ 1980  history
+ 1981  echo history >> history.txt
+ 1982  ls -la
+ 1983  cat history.txt 
+ 1984  echo history > history.txt
+ 1985  cat history.txt 
+ 1986  history
+ 1987  history > history.txt 
