@@ -1,0 +1,46 @@
+app: Linux_szakaszzaro
+env: staging
+namespace: staging
+chart:
+    repository: https://chart.onechart.dev
+    name: onechart
+    version: 0.32.0
+values:
+    containerPort: 55
+    image:
+        repository: example
+        tag: 1.1.1.1.1.1
+    ingress:
+        annotations:
+            newKey: New Value
+            newKey-1: New Value
+    podDisruptionBudgetEnabled: false
+    probe:
+        enabled: true
+        settings:
+            failureThreshold: 7
+            initialDelaySeconds: 21
+            periodSeconds: 16
+            successThreshold: 4
+            timeoutSeconds: 9
+    replicas: 6
+    resources:
+        limits:
+            cpu: 800m
+            memory: 800Mi
+        requests:
+            cpu: 600m
+            memory: 600Mi
+    sealedSecrets:
+        newKey: New Value
+        newKey-1: New Value
+    vars:
+        newKey: New Value
+        newKey-1: New Value
+        newKey-2: New Value
+        newKey-3: New Value
+    volumes:
+        - name: datacucc
+          path: /data
+          size: 40Gi
+          storageClass: ""
