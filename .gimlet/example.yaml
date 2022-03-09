@@ -1,0 +1,12 @@
+app: example
+env: example
+namespace: staging
+chart:
+  repository: https://chart.onechart.dev
+  name: onechart
+  version: 0.32.0
+values:
+  replicas: 7
+strategicMergePatches: ""
+json6902Patches: []
+manifests: ""
